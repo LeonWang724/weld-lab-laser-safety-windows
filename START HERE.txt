@@ -1,0 +1,17 @@
+WELD LAB LASER SAFETY
+
+ON YOUR MAC
+Double-click Weld Lab Laser Safety.app to immediately preview the SAFE display.
+Open Settings to change sample reports or connect to the Windows display PC.
+The Preview label marks local samples, separate from live lab reports.
+
+ON THE WINDOWS DISPLAY PC
+Copy Install Weld Lab Laser Safety.cmd onto the Windows PC and double-click it.
+Setup downloads dependencies, creates a Desktop shortcut and opens the display.
+First setup needs internet; Windows 7 requires SP1 and runtime/security updates.
+After setup, use Weld Lab Laser Safety on the Desktop. Keep its command window open.
+No microSD card or Arduino is required.
+
+Staff controls: http://DISPLAY-PC:8765/?control=1
+Replace DISPLAY-PC with the Windows computer name or IPv4 address.
+These buttons report status; they do not operate physical lasers.

@@ -1,0 +1,10 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+*.zip
+*.app/
+Software/windows/runtime/
+Software/windows/browser/
+Software/windows/browser-path.txt
+Software/windows/web/
+Software/windows/server.py
