@@ -1,0 +1,6 @@
+{
+  "name": "weld-lab-laser-safety",
+  "private": true,
+  "type": "module",
+  "scripts": { "test": "node --test tests/model.test.js", "start": "python3 -m http.server 8080 --bind 127.0.0.1 --directory dist" }
+}
